@@ -1,50 +1,111 @@
-# Analise_de_aplicacoes
-Analisando 3 aplicativos do tema de notícia 
 
-# APLICATIVOS DE NOTÍCIAS
+<h1 align="center">
+  <br>
+  Análise de Aplicações
+  <br>
+</h1>
 
-   ° Microsoft Start
+<h3 align="center">O tema que pegamos foi notícia, é um gênero que varia de diversos assuntos do cotidiano, podendo ser encontrado em jornais, revistas, internet e múltiplos outros meios de comunicação.</a></h3>
 
-   ° Pocket
+<br>
+ <h2 align="justificada"
+  <br>
+  Aplicações Escolhidas:
+  <br>
+</h2>
 
-   ° Flipboard
+<h1 align="center">
+  <a ><img src="https://user-images.githubusercontent.com/101645699/234954594-f7e13d59-14a7-460f-abad-c071cb3694d4.png" width ="900"</a>
+  <br>
+</h1>
+## Key Features
 
-Esses são os três aplicativos de notícias que atualmente nesse ano, são os mais acessados mundialmente. 
-Antes de explicarmos todos os detalhes desses aplicativos, conheceremos um pouco mais de cada.
+* LivePreview - Make changes, See changes
+  - Instantly see what your Markdown documents look like in HTML as you create them.
+* Sync Scrolling
+  - While you type, LivePreview will automatically scroll to the current location you're editing.
+* GitHub Flavored Markdown  
+* Syntax highlighting
+* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Dark/Light mode
+* Toolbar for basic Markdown formatting
+* Supports multiple cursors
+* Save the Markdown preview as PDF
+* Emoji support in preview :tada:
+* App will keep alive in tray for quick usage
+* Full screen mode
+  - Write distraction free.
+* Cross platform
+  - Windows, macOS and Linux ready.
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+
+# Go into the repository
+$ cd electron-markdownify
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+> **Note**
+> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-# MICROSOFT START
+## Download
 
-O Melhor e Mais Completo Aplicativo de Notícias
+You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
-O Microsft Start é um aplicativo de notícias tão completo que até surpreende. Além de apresentar todos os benefícios de personalização de texto e filtros do mercado, ele também inclui centenas de publicações de todo o mundo, em idiomas distintos. Sejam elas em formato de vídeo, imagem ou texto.
+## Emailware
 
-Contudo, o app vai muito além da veiculação de matérias. Nele você também encontra previsão do tempo, receitas de sites como Tudo Gostoso, mapa com tudo o que há por perto e muito mais. Assim, é um aplicativo que realmente traz mais praticidade ao dia a dia do usuário!
+Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
-Quanto as notícias, um ponto positivo é que ele incorpora o conteúdo dos veículos em sua própria interface. Dessa maneira, você não terá que se preocupar com notícias exclusivas para assinantes. Pode consumir toda a variedade que quiser de maneira gratuita e prática. Não à toa, é muito bem avaliado!
+## Credits
 
+This software uses the following open source packages:
 
-# POCKET
+- [Electron](http://electron.atom.io/)
+- [Node.js](https://nodejs.org/)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [showdown](http://showdownjs.github.io/showdown/)
+- [CodeMirror](http://codemirror.net/)
+- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
+- [highlight.js](https://highlightjs.org/)
 
-Vários Recursos para Não Perder Nada do Longo do Dia
+## Related
 
-O Pocket é um aplicativo de notícias da Mozilla Corporation, uma empresa bem conhecida no segmento de tecnologia. Com boas avaliações no Google Play e App Store, principalmente quanto a praticidade, essa é uma excelente escolha para se manter informado no dia a dia.
+[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
 
+## Support
 
-Entre seus principais atrativos está a ampla variedade de fontes de notícia que o app veicula. As matérias vão desde portais internacionais super renomados, como The New York Times e The Guardian até plataformas bem populares, como os assuntos mais comentados no Twitter, por exemplo.
+<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<p>Or</p> 
 
-O app também tem recursos muito úteis para o dia a dia, como a opção de salvar notícias. Vale destacar que o Pocket possui uma versão premium, onde é possível usufruir de benefícios como busca avançada, destaques ilimitados e mais. Gostou? Então, acesse o link para baixar esse app de notícias!
+<a href="https://www.patreon.com/amitmerchant">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
+## You may also like...
 
-# FLIPBOARD
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
-Prático e Bastante Personalizável
+## License
 
-Flipboard é um dos aplicativos agregadores de notícias mais populares, tanto entre usuários Android quanto iOS. E isso tem justificativa: o app engloba mais de 100 publicações distintas, que são apresentadas em mais de 20 idiomas, incluindo português. Bem legal, né?
+MIT
 
+---
 
-Ele também inclui conteúdos em formato de imagem e vídeos, e você pode adaptar as temáticas do app de acordo com suas preferências, garantindo uma experiência bastante personalizada. Inclusive, a navegação no app é bem simples, intuitiva e prazerosa, o que justifica a boa avaliação dos usuários!
+> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
+> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
 
-
-Ao abrir o app, o Flipboard mostra uma seção com notícias recomendadas a usuário. Deslizando para o lado direito é possível navegar por outras seções, como "Escolha do Editor" e um menu com todos os assuntos disponíveis. Para ficar melhor, ele traz bons recursos de leitura para o dia a dia!
