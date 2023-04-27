@@ -29,6 +29,12 @@
 
 * Quando entramos no app podemos filtrar os temas de informações que desejamos receber.
 
+<br>
+<p align = "center">
+<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/> </a>
+</p>
+<br>
+
 * Na sua tela inicial temos uma barra slide na parte superior do app, nesse local ficam os temas filtras que você escolheu e as notícias preparadas para você, englobando todas as outras.
   - Na parte inferior temos uma “casa” que é o início; 
   - Ao lado os temas filtrados que você escolheu lá no login do app;
@@ -51,6 +57,12 @@ Google Play quanto na App Store. Entre os pontos mais elogiados estão a credibi
 ```
 * A aplicação tem uma interface mais simples com variados temas de conteúdos mundiais, regionais e opção de salvar para ler mais tarde.
 
+<br>
+<p align = "center">
+<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/> </a>
+</p>
+<br>
+
 * Ao abrir o app, nos deparamos com as matérias do mundo recém-publicadas, no canto superior direito e na parte inferior do app temos algumas opções, tais como:
   - Temos uma “casa”, que é a tela de início, nela no canto superior direito tem uma lupa para podermos explorar múltiplos assuntos distintos;
   - Ao lado dessa casa tem um ícone de região, nele aparecem assuntos destacados na região em que se encontra o usuário do app;
@@ -68,6 +80,12 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
 
 ```
 * A aplicação da Microsoft Start de uma interface muito completa, tendo slides das principais notícias, temáticas e assuntos mundialmente publicados.
+
+<br>
+<p align = "center">
+<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/> </a>
+</p>
+<br>
 
 * Sua tela é cheia de informação, mas são bem compactas e organizadas, contendo notícias do clima, do mercado bancário, esportes, saúdes e muitos outros temas. Na parte superior tem uma barra de pesquisa, podendo pesquisar por texto, visual ou voz.
 
@@ -90,7 +108,11 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
   - “Histórico” (de pesquisa e navegação);
   - Por último a engrenagem de configuração (possuindo contas, geral(localização, privacidade…), preferências (notificação, pesquisar, página inicial…), tema escuro, leve ou automático, sobre o app e configuração de Download.
   
-## How To Use
+## Semelhanças e Diferenças
+```
+	Como vimos
+	
+```
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
