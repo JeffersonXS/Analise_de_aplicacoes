@@ -27,9 +27,9 @@
   igualmente ao Microsoft Start, garantindo uma experiência bastante personalizada.
 ```
 
-* Quando entramos no app podemos filtrar os temas de informações que desejamos receber;
+* Quando entramos no app podemos filtrar os temas de informações que desejamos receber.
 
-* Na sua tela inicial temos uma barra slide na parte superior do app, nesse local ficam os temas filtras que você escolheu e as notícias preparadas para você, englobando todas as outras;
+* Na sua tela inicial temos uma barra slide na parte superior do app, nesse local ficam os temas filtras que você escolheu e as notícias preparadas para você, englobando todas as outras.
   - Na parte inferior temos uma “casa” que é o início; 
   - Ao lado os temas filtrados que você escolheu lá no login do app;
   - Mais a direita temos uma lupa, contendo qualquer tipo de informação do mundo inteiro para você pesquisar;
@@ -49,23 +49,16 @@ Google Play quanto na App Store. Entre os pontos mais elogiados estão a credibi
  assim com o Microsoft Start, tem o modo escuro que favorece a leitura durante a noite, entre outas funcionalidades.
 
 ```
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* A aplicação tem uma interface mais simples com variados temas de conteúdos mundiais, regionais e opção de salvar para ler mais tarde.
+
+* Ao abrir o app, nos deparamos com as matérias do mundo recém-publicadas, no canto superior direito e na parte inferior do app temos algumas opções, tais como:
+  - Temos uma “casa”, que é a tela de início, nela no canto superior direito tem uma lupa para podermos explorar múltiplos assuntos distintos;
+  - Ao lado dessa casa tem um ícone de região, nele aparecem assuntos destacados na região em que se encontra o usuário do app;
+  - No meio da parte inferior fica a lupa de busca, que explicamos acima;
+  - Mais a direita, o ícone de “salvos”, nesse local ficará as notícias salvas para ler depois, antes de conseguir salvar, precisará entrar ou cadastrar-se, se for a primeira vez, na conta Globo;
+  - Por último temos o menu, um cardápio cheio de assuntos como guia de compras, podcasts, editorias, entre outros;
+* Clicando na engrenagem de configuração no canto superior direito, localizada no menu, podemos acessar o perfil, as notificações, colocar no modo noturno, ver a versão do app e avaliar.  
+
  
 ## MISCROSOFT START
 ```
@@ -74,23 +67,28 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
     O app vai muito além da divulgação de matérias. Nele você também encontra previsão do tempo, receitas, mapa com tudo o que há por perto e muito mais.
 
 ```
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* A aplicação da Microsoft Start de uma interface muito completa, tendo slides das principais notícias, temáticas e assuntos mundialmente publicados.
+
+* Sua tela é cheia de informação, mas são bem compactas e organizadas, contendo notícias do clima, do mercado bancário, esportes, saúdes e muitos outros temas. Na parte superior tem uma barra de pesquisa, podendo pesquisar por texto, visual ou voz.
+
+* No inferior do app ao lado da página inicial tem o ícone de notícias, nele tem variados assuntos, como o resumo diário, destaques do dia, estilo de vida e vários tópicos distintos.  
+  - Também tem uma opção de editar esses tópicos, caso o usuário não quiser receber notícias de determinado tópico, basta excluir ou ele pode adicionar mais;
+
+* No central da parte inferior temos o Bing, um motor de pesquisa da Microsoft, ao clicar no ícone e entrar na conta da Microsoft, você consegue fazer pesquisas conversando com a IA, assim como o google assistente ou o ChatGPT(uma nova IA desenvolvida pela OpenAI).
+
+* Ao lado do Bing contém as “guias”, elas funcionam como as do Google Chrome, sendo assim, podemos abrir diversas abas de com conteúdo sem precisar fechá-las.
+  - Mas elas podem ser fechadas depois clicando no ‘X’ de cada aba;
+  - Ou apenas selecionando “fechar todas as guias”, no canto superior direito dentro dos três pontos. 
+
+* No canto inferior direito possui o ícone “aplicativos”, dentro dele abrange outros diferentes ícones, alguns já fixado, outros para explorar. Com isso o usuário pode fixar ou desafixar esses ícones 
+
+* Acima de tudo tem os pontos diários, que são ganhos com base em pesquisas feitas.
+
+* Abaixo dos pontos diário tem as opções como:
+  - “Interesses”(para filtrar conteúdos recebidos); 
+  - “salvos ou indicadores” (contendo notícia indicadas para o usuário ou salvas por ele);
+  - “Histórico” (de pesquisa e navegação);
+  - Por último a engrenagem de configuração (possuindo contas, geral(localização, privacidade…), preferências (notificação, pesquisar, página inicial…), tema escuro, leve ou automático, sobre o app e configuração de Download.
   
 ## How To Use
 
