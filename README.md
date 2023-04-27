@@ -20,7 +20,60 @@
 </h1>
 
   ## FLIPBOARD
+ ```
+    Flipboard é um dos aplicativos agregadores de notícias mais populares, tanto entre usuários Android quanto iOS. 
+  O app engloba mais de múltiplas publicações distintas, que são apresentadas em mais de 20 idiomas.
+    Ele também inclui conteúdo em formato de imagem e vídeos, e você pode filtrar as temáticas do app de acordo com suas preferências, 
+  igualmente ao Microsoft Start, garantindo uma experiência bastante personalizada.
+```
 
+* Quando entramos no app podemos filtrar os temas de informações que desejamos receber;
+
+* Na sua tela inicial temos uma barra slide na parte superior do app, nesse local ficam os temas filtras que você escolheu e as notícias preparadas para você, englobando todas as outras;
+  - Na parte inferior temos uma “casa” que é o início; 
+  - Ao lado os temas filtrados que você escolheu lá no login do app;
+  - Mais a direita temos uma lupa, contendo qualquer tipo de informação do mundo inteiro para você pesquisar;
+  - Depois temos um sino, onde estarão as notificações Sociais (são aquela que você comenta na publicação de qualquer notícia e alguém responde) e de Conteúdos;
+  - E por último é o perfil do usuário, nesse local podemos mexer nas configurações do app, encontrar pessoas para seguir tanto no próprio app quanto no Twitter (basta fazer o login na sua conta), ver no histórico e compartilhar no perfil com todas as informações.
+
+* O app tem inúmeros outros recursos como:
+  - Pegar notícias publicadas e montar uma revista, podendo deixar privada ou pública no seu perfil, adicionar pessoas a ela ou marca;
+  - Curtir conteúdos, compartilhar, comentar, colocar no modo escuro ou ver diretamente pela web;
+  - Excluir as publicações de um determinado conteúdo ou apenas mostrar um pouco menos.
+  
+## G1 PORTAL DE NOTÍCIAS DA GLOBO
+```
+    O G1 apresenta um sistema bastante completo de notificações, com notícias a todo momento sobre o mundo. Em geral, o app é bem avaliado tanto no 
+Google Play quanto na App Store. Entre os pontos mais elogiados estão a credibilidade da plataforma e a apresentação das notícias em tempo real.
+    O G1 traz bons atrativos, como a possibilidade de personalizar as notificações. Além disso, no app é possível salvar as notícias para ler mais tarde, 
+ assim com o Microsoft Start, tem o modo escuro que favorece a leitura durante a noite, entre outas funcionalidades.
+
+```
+* LivePreview - Make changes, See changes
+  - Instantly see what your Markdown documents look like in HTML as you create them.
+* Sync Scrolling
+  - While you type, LivePreview will automatically scroll to the current location you're editing.
+* GitHub Flavored Markdown  
+* Syntax highlighting
+* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Dark/Light mode
+* Toolbar for basic Markdown formatting
+* Supports multiple cursors
+* Save the Markdown preview as PDF
+* Emoji support in preview :tada:
+* App will keep alive in tray for quick usage
+* Full screen mode
+  - Write distraction free.
+* Cross platform
+  - Windows, macOS and Linux ready.
+ 
+## MISCROSOFT START
+```
+    O Microsoft Start é um aplicativo de notícias bem completo. Além de apresentar todos os benefícios de personalização de filtros do mercado, 
+ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
+    O app vai muito além da divulgação de matérias. Nele você também encontra previsão do tempo, receitas, mapa com tudo o que há por perto e muito mais.
+
+```
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
 * Sync Scrolling
@@ -39,8 +92,6 @@
 * Cross platform
   - Windows, macOS and Linux ready.
   
-  ## G1 PORTAL DE NOTÍCIAS DA GLOBO
-
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
