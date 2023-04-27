@@ -18,7 +18,8 @@
   <a ><img src="https://user-images.githubusercontent.com/101645699/234954594-f7e13d59-14a7-460f-abad-c071cb3694d4.png" width ="900"</a>
   <br>
 </h1>
-## Key Features
+
+  ## FLIPBOARD
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
@@ -37,6 +38,8 @@
   - Write distraction free.
 * Cross platform
   - Windows, macOS and Linux ready.
+  
+  ## G1 PORTAL DE NOTÍCIAS DA GLOBO
 
 ## How To Use
 
