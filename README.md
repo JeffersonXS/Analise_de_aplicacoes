@@ -159,7 +159,8 @@ Todos essas aplicações possem muitos elementos que podemos colocar pelo Androi
 * ImageView: Adiciona imagem, são adicionadas em algumas matérias; 
 * Button: Adiciona um botão, esses são colocados nos ícones do app;
 * É usado o WebView para acessar uma página Web como parte de um aplicativo. Isso é utilizado no Flipboard e Microsoft Start;
-* ImageButton: Adicionar uma imagem com função de botão.
+* ImageButton: Adicionar uma imagem com função de botão;
+* Podemos utilizar da categoria Text Field para a criação de um elemento como a barra de pesquisas. 
 
 ---
 ### GitHub dos itegrantes
