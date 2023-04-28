@@ -6,13 +6,6 @@
 </h1>
 
 <h3 align="center">O tema que pegamos foi notícia, é um gênero que varia de diversos assuntos do cotidiano, podendo ser encontrado em jornais, revistas, internet e múltiplos outros meios de comunicação.</a></h3>
-
----
-
-> GitHub [@JeffersonXS](https://github.com/JeffersonXS) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
 <br>
  <h2 align="justificada"
   <br>
@@ -167,8 +160,13 @@ Todos essas aplicações possem muitos elementos que podemos colocar pelo Androi
 * Button: Adiciona um botão, esses são colocados nos ícones do app;
 * É usado o WebView para acessar uma página Web como parte de um aplicativo. Isso é utilizado no Flipboard e Microsoft Start.
 
+---
+### Repositório dos itegrantes
+
+> GitHub [@JeffersonXS](https://github.com/JeffersonXS) &nbsp;&middot;&nbsp;
+> GitHub [@caioolsilva](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+  
 ## License
 
 MIT
-
 
