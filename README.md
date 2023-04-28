@@ -154,11 +154,11 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
 
 Todos essas aplicações possem muitos elementos que podemos colocar pelo Android Studio, esse elementos são:
 * Utilizamos para a criação de perfil o Profileable;
-*
-*
-*
-*
-*
+* TextView: Adicionar texto;
+* VídeoView: Adicionar video; 
+* ListView: Serve para armazenar um ampla quantidade de informações, podendo atualizar, receber e enviar eventos;
+* ImageView: Adiciona imagem; 
+* Button: Adiciona um botão;
 *
 *
 *
