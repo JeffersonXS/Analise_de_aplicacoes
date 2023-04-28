@@ -15,7 +15,7 @@
 </h2>
 
 <h1 align="center">
-  <a ><img src="https://user-images.githubusercontent.com/101645699/234954594-f7e13d59-14a7-460f-abad-c071cb3694d4.png" width ="900"</a>
+  <a ><img src="https://user-images.githubusercontent.com/101645699/234954594-f7e13d59-14a7-460f-abad-c071cb3694d4.png" width ="1250" height="950"</a>
   <br>
 </h1>
 
@@ -122,7 +122,7 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
 
 * G1 e o Flipboard possuem uma barra de pesquisa somente de texto; 
 
-* O Flipboard e o Microsoft Start tem a opção de filtrar algumas temáticas; 
+* O Flipboard e o Microsoft Start têm a opção de filtrar algumas temáticas; 
 
 * Notícias com textos, imagens ou vídeos; 
 
@@ -147,26 +147,19 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
   - Uma IA da Bing, que podemos fazer perguntas conversando com ela, assim como ChatGPT e o Google Assistente; 
   - Sua barra de pesquisa é de texto e voz; 
   - Tem um ícone “guia”, facilitando o acesso a diversas informações distintas ao mesmo tempo; 
-  - Uma contagem de pontos diários, que são ganho a cada pesquisa; 
+  - Uma contagem de pontos diários, que são ganhados a cada pesquisa; 
   - E tem um campo de GPS, onde o usuário defini sua casa e o trabalho, e o app mostrará a situação da rota entre um e outro.
 
 # Elementos disponíveis do Android tudio
 
 Todos essas aplicações possem muitos elementos que podemos colocar pelo Android Studio, esse elementos são:
 * Utilizamos para a criação de perfil o Profileable;
-* TextView: Adicionar texto;
-* VídeoView: Adicionar video; 
+* TextView: Adicionar texto, as descrições das notícias;
+* VídeoView: Adicionar video, presentes em alguns conteúdos publicados; 
 * ListView: Serve para armazenar um ampla quantidade de informações, podendo atualizar, receber e enviar eventos;
-* ImageView: Adiciona imagem; 
-* Button: Adiciona um botão;
-*
-*
-*
-*
-*
-*
-*
-
+* ImageView: Adiciona imagem, são adicionadas em algumas matérias; 
+* Button: Adiciona um botão, esses são colocados nos ícones do app;
+* É usado o WebView para acessar uma página Web como parte de um aplicativo. Isso é utilizado no Flipboard e Microsoft Start.
 
 ## License
 
