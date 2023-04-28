@@ -149,7 +149,7 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
   - Uma contagem de pontos diários, que são ganhados a cada pesquisa; 
   - E tem um campo de GPS, onde o usuário defini sua casa e o trabalho, e o app mostrará a situação da rota entre um e outro.
 
-# Elementos disponíveis do Android tudio
+# Elementos disponíveis do Android Studio
 
 Todos essas aplicações possem muitos elementos que podemos colocar pelo Android Studio, esse elementos são:
 * Utilizamos para a criação de perfil o Profileable;
@@ -159,13 +159,13 @@ Todos essas aplicações possem muitos elementos que podemos colocar pelo Androi
 * ImageView: Adiciona imagem, são adicionadas em algumas matérias; 
 * Button: Adiciona um botão, esses são colocados nos ícones do app;
 * É usado o WebView para acessar uma página Web como parte de um aplicativo. Isso é utilizado no Flipboard e Microsoft Start;
-* ImageButton: Adicionar uma imagem com função de botão;
+* ImageButton: Adicionar uma imagem com função de botão.
 
 ---
-### Repositório dos itegrantes
+### GitHub dos itegrantes
 
 > GitHub [@JeffersonXS](https://github.com/JeffersonXS) &nbsp;&middot;&nbsp;
-> GitHub [@caioolsilva](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> GitHub [@caioolsilva](https://github.com/caioolsilva) &nbsp;&middot;&nbsp;
   
 ## License
 
