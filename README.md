@@ -158,7 +158,8 @@ Todos essas aplicações possem muitos elementos que podemos colocar pelo Androi
 * ListView: Serve para armazenar um ampla quantidade de informações, podendo atualizar, receber e enviar eventos;
 * ImageView: Adiciona imagem, são adicionadas em algumas matérias; 
 * Button: Adiciona um botão, esses são colocados nos ícones do app;
-* É usado o WebView para acessar uma página Web como parte de um aplicativo. Isso é utilizado no Flipboard e Microsoft Start.
+* É usado o WebView para acessar uma página Web como parte de um aplicativo. Isso é utilizado no Flipboard e Microsoft Start;
+* ImageButton: Adicionar uma imagem com função de botão;
 
 ---
 ### Repositório dos itegrantes
