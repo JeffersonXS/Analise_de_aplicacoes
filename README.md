@@ -15,7 +15,7 @@
 </h2>
 
 <h1 align="center">
-  <a ><img src="https://user-images.githubusercontent.com/101645699/234954594-f7e13d59-14a7-460f-abad-c071cb3694d4.png" width ="1250" height="950"</a>
+  <a ><img src="https://user-images.githubusercontent.com/101645699/234954594-f7e13d59-14a7-460f-abad-c071cb3694d4.png" width ="900" </a>
   <br>
 </h1>
 
