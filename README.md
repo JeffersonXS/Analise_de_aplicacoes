@@ -31,7 +31,7 @@
 
 <br>
 <p align = "center">
-<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/> </a>
+<a><img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235034609-0040991c-7647-4cdb-800f-c939dc75cb85.jpg" width="250" height="600"/></a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235034354-615526f0-17af-4623-881d-4f177927b659.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235034465-98bd70b4-f1b0-4282-b355-9efbc741ee8b.jpg" width="250" height="600"/></a>
 </p>
 <br>
 
@@ -59,7 +59,7 @@ Google Play quanto na App Store. Entre os pontos mais elogiados estão a credibi
 
 <br>
 <p align = "center">
-<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/> </a>
+<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235035557-49512d77-0efa-469a-9136-7809827a1302.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235035644-ef2ddf4e-b79c-4fa4-9ebb-b1f83c76916c.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235035718-1132f60a-3f29-46d9-b14a-8220e92875a7.jpg" width="250" height="600"/></a>
 </p>
 <br>
 
@@ -83,7 +83,7 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
 
 <br>
 <p align = "center">
-<a> <img src= "https://user-images.githubusercontent.com/101645699/235008443-6c073480-b778-41e3-9038-a074534e2e0d.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/> </a> <a> <img src= "https://user-images.githubusercontent.com/101645699/235010150-e9550c61-01f2-4e1c-a46b-e65877f10f77.jpg" width="250" height="600"/> </a>
+<a> <img src= "https://user-images.githubusercontent.com/101645699/235006270-e8e9b7bf-ac60-4f78-8381-e5b34100ee55.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235032803-ac23681f-4686-4d19-a545-e3f3e02e02f7.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235033346-a3674be2-3511-4475-a5f6-1f7a944b3fce.jpg" width="250" height="600"/></a> <a><img src= "https://user-images.githubusercontent.com/101645699/235032880-1991472d-fc77-47e7-bce6-1f4691c660c8.jpg" width="250" height="600"/></a>
 </p>
 <br>
 
@@ -110,7 +110,21 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
   
 ## Semelhanças e Diferenças
 ```
-	Como vimos
+  Como vimos todas as aplicações apresentadas têm muitas coisas em parecidas e outra que são diferentes, 
+os três app tem opções de não receber ou de receber um menos os assuntos de determinado tema ou de publicador e compartilhar os conteúdos.
+  As semelhanças são expostas no conteúdo apresentado pelo aplicativo. Nesse caso, as temáticas mundiais, poder salvar as notícias 
+para ler depois, colocar no modo escura para uma leitura melhor. 
+  No Flipboard é um pouco diferente das outras duas aplicações, sendo que, nele podemos criar uma revista com as 
+notícias salvas, partilhar ou adicionar com outra pessoas.
+  Outras diferenças são as interfaces visuais, os layout. No G1 ela é mais básica, no Flipboard muda mais, pois nele o rolamento 
+da página faz uma animação de página de revista sendo passada e, no Microsoft Start é algo completamente diferente dos outros dois, 
+porque sua interface é mais integral e compacta, muito bem elaborada.
+  O Flipboard e o Microsoft Start têm opções de comentar e curtir, diferente do G1 que não contém essa opções. E a filtragem de 
+temáticas é integrada somente no Microsoft Start e no Flipboard.
+  Mas no final de tudo o app que mais se destaca dos outros é o Microsoft Start ele possui guias para facilitar a pesquisa ou as notícias, 
+sem precisarmos fazer um de cada vez e dispõe tanto de matérias do mundo quanto outros aplicativos como: clima, calculadora, papel de 
+parede entre outros. Além de ter um IA da Bing, onde podemos pesquisar apenas conversando com ela, uma dinâmica totalmente inovadora e 
+diferente comparado ao Flipboard e o G1. E por último, quando offline não podemos acessar o app, desse modo, automaticamente, não conseguimos ver as notícias.
 	
 ```
 
