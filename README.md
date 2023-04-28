@@ -165,7 +165,10 @@ Todos essas aplicações possem muitos elementos que podemos colocar pelo Androi
 ---
 ### GitHub dos itegrantes
 
+Jefferson Bispo da Silva:
 > GitHub [@JeffersonXS](https://github.com/JeffersonXS) &nbsp;&middot;&nbsp;
+
+Caio de Oliveira Silva:
 > GitHub [@caioolsilva](https://github.com/caioolsilva) &nbsp;&middot;&nbsp;
   
 ## License
