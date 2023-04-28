@@ -108,25 +108,65 @@ ele também inclui diversas publicações de todo o mundo, em idiomas distintos.
   - “Histórico” (de pesquisa e navegação);
   - Por último a engrenagem de configuração (possuindo contas, geral(localização, privacidade…), preferências (notificação, pesquisar, página inicial…), tema escuro, leve ou automático, sobre o app e configuração de Download.
   
-## Semelhanças e Diferenças
-```
-  Como vimos todas as aplicações apresentadas têm muitas coisas em parecidas e outra que são diferentes, 
-os três app tem opções de não receber ou de receber um menos os assuntos de determinado tema ou de publicador e compartilhar os conteúdos.
-  As semelhanças são expostas no conteúdo apresentado pelo aplicativo. Nesse caso, as temáticas mundiais, poder salvar as notícias 
-para ler depois, colocar no modo escura para uma leitura melhor. 
-  No Flipboard é um pouco diferente das outras duas aplicações, sendo que, nele podemos criar uma revista com as 
-notícias salvas, partilhar ou adicionar com outra pessoas.
-  Outras diferenças são as interfaces visuais, os layout. No G1 ela é mais básica, no Flipboard muda mais, pois nele o rolamento 
-da página faz uma animação de página de revista sendo passada e, no Microsoft Start é algo completamente diferente dos outros dois, 
-porque sua interface é mais integral e compacta, muito bem elaborada.
-  O Flipboard e o Microsoft Start têm opções de comentar e curtir, diferente do G1 que não contém essa opções. E a filtragem de 
-temáticas é integrada somente no Microsoft Start e no Flipboard.
-  Mas no final de tudo o app que mais se destaca dos outros é o Microsoft Start ele possui guias para facilitar a pesquisa ou as notícias, 
-sem precisarmos fazer um de cada vez e dispõe tanto de matérias do mundo quanto outros aplicativos como: clima, calculadora, papel de 
-parede entre outros. Além de ter um IA da Bing, onde podemos pesquisar apenas conversando com ela, uma dinâmica totalmente inovadora e 
-diferente comparado ao Flipboard e o G1. E por último, quando offline não podemos acessar o app, desse modo, automaticamente, não conseguimos ver as notícias.
-	
-```
+# Semelhanças e Diferenças
+### Paridades 
+* Apresentam assuntos diversos do mundo; 
+
+* Podem ocultar ou mostrar menos determinado conteúdo; 
+
+* Salvar as matérias; 
+
+* Modo escuro para ter uma leitura mais agradável, de acordo com o gosto do usuário; 
+
+* Compartilhar as notícias em outras plataformas; 
+
+* G1 e o Flipboard possuem uma barra de pesquisa somente de texto; 
+
+* O Flipboard e o Microsoft Start tem a opção de filtrar algumas temáticas; 
+
+* Notícias com textos, imagens ou vídeos; 
+
+* Somente no Microsoft Start e o Flipboard, podemos comentar ou curtir as notícias. 
+
+* Nenhuma dessas três aplicações funcionam offline. Tem que estar conectado em uma rede ou dados móveis; 
+
+### Diferenças
+* No Flipboard podemos seguir um publicador de notícias.
+  - Compartilhar um link do nosso perfil; 
+  -Montar uma revista com as notícias salvas; 
+  -Podemos adicionar pessoas nessa revista e compartilha; 
+
+* No G1 é mais básico em questão visual. 
+  - Ele não possui filtragem; 
+  - Dá para saber as notícias diárias da região do usuário; 
+  - E tem um menu disponibilizando outros serviços de conteúdos de notícia, tais como podcast, serviços de jornais da Globo como o GloboNews, entre outros conteúdos. 
+
+* No Microsoft Start tem uma interface completamente diferente das outras duas aplicações. 
+  - Uma interface mais integral e compacta; 
+  - Tem notícias mundiais, clima e aplicativos como calculadora, papel de parede, jogos entre outros; 
+  - Uma IA da Bing, que podemos fazer perguntas conversando com ela, assim como ChatGPT e o Google Assistente; 
+  - Sua barra de pesquisa é de texto e voz; 
+  - Tem um ícone “guia”, facilitando o acesso a diversas informações distintas ao mesmo tempo; 
+  - Uma contagem de pontos diários, que são ganho a cada pesquisa; 
+  - E tem um campo de GPS, onde o usuário defini sua casa e o trabalho, e o app mostrará a situação da rota entre um e outro.
+
+# Elementos disponíveis do Android tudio
+
+Todos essas aplicações possem muitos elementos que podemos colocar pelo Android Studio, esse elementos são:
+* Utilizamos para a criação de perfil o Profileable;
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 
 ## License
 
